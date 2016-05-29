@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464534923 source:d:\开发\公众号权威度\reference\topical_authority\k-core\k-core\main.cpp
+	<stdio.h>
+	<vector>
+
